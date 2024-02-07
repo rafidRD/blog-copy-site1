@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Rafid # the main title
 
 tagline: A text-focused Jekyll theme # it will display as the sub-title
 
@@ -76,7 +76,7 @@ theme_mode: # [light | dark]
 img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "https://avatars.githubusercontent.com/u/66445118?v=4"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -126,7 +126,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/blog-copy-site1"
+baseurl: "/blog-copy-site1/"
 
 # ------------ The following options are not recommended to be modified ------------------
 
