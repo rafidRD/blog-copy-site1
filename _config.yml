@@ -18,7 +18,7 @@ title: Chirpy # the main title
 
 tagline: A text-focused Jekyll theme # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
+description:  # used by seo meta and the atom feed
   
 
 # Fill in the protocol & hostname for your site.
@@ -126,7 +126,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "https://github.dev/rafidRD/blog-copy-site1/"
 
 # ------------ The following options are not recommended to be modified ------------------
 
